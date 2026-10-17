@@ -9,5 +9,5 @@
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-ai-actions/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-ai-actions/releases/download/v0.1.0-alpha.2/plugin-ai-actions.zip",
-  "sha256": "39f137f11afc3dbf14beacf99a75e31c1132feac39b170be381cdf369113fa02"
+  "sha256": "5a8dcbd3a1869a69e533788660b2385092f5df66d479a53d71347c14df23ec53"
 }
