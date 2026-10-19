@@ -1,13 +1,13 @@
 {
   "key": "ai-actions",
   "name": "AI",
-  "version": "0.1.0-alpha.3",
+  "version": "0.1.0-alpha.4",
   "description": "Build actions with AI, generate text, classify chat and react to chat intents.",
   "icon": "ri:sparkling-2-line",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0",
+  "streamKitVersion": ">=0.1.0-alpha.25",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-ai-actions/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-ai-actions/releases/download/v0.1.0-alpha.3/plugin-ai-actions.zip",
-  "sha256": "940decd547891604acf5301023ff4e4896988d61d945c8f9e8cc4f47b7d75c07"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-ai-actions/releases/download/v0.1.0-alpha.4/plugin-ai-actions.zip",
+  "sha256": "7d3ddae7c979853ec5a3f603b74ebaa781d8f71fc77eaf500a18fc39a8c5c495"
 }
