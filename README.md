@@ -1,6 +1,6 @@
-# AI Actions plugin distribution
+# AI plugin distribution
 
-This repository publishes the official **Stream Kit** distribution for the **AI Actions** plugin (`ai-actions`).
+This repository publishes the official **Stream Kit** distribution for the **AI** plugin (`ai-actions`).
 
 It does **not** contain plugin source code. Development happens in the main app monorepo:
 
