@@ -9,5 +9,5 @@
   "cuesparkVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-ai-actions/main/manifest.json",
   "downloadUrl": "https://github.com/cuespark/plugin-ai-actions/releases/download/v0.1.0-alpha.4/plugin-ai-actions.zip",
-  "sha256": "fe05eaba2a80601354c8bb453a93a466b7500284c3848707840d3a6e8982d9d1"
+  "sha256": "f608b3cfbfb1cfc4007d91a15eea34e7b0b93b60c851a094fb8ab0593eb67f68"
 }
