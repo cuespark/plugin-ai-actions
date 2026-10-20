@@ -6,8 +6,8 @@
   "icon": "ri:sparkling-2-line",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0-alpha.25",
-  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-ai-actions/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-ai-actions/releases/download/v0.1.0-alpha.4/plugin-ai-actions.zip",
-  "sha256": "7d3ddae7c979853ec5a3f603b74ebaa781d8f71fc77eaf500a18fc39a8c5c495"
+  "cuesparkVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-ai-actions/main/manifest.json",
+  "downloadUrl": "https://github.com/cuespark/plugin-ai-actions/releases/download/v0.1.0-alpha.4/plugin-ai-actions.zip",
+  "sha256": "1d5fc67801851550a4d94027d1c817a7dfc04e895834e2166352965f3e1ea3e1"
 }
